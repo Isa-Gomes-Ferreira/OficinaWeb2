@@ -1,0 +1,15 @@
+.body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* .navbar-toggler {
+    border-width: 0;
+} */
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.my-bgcolor {
+    background-color: var(--bs-pink);
+}
